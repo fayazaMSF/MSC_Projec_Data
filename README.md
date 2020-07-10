@@ -1,4 +1,4 @@
-# MSC_Projec_Data
+# Tamil_News_Clusterring
 This have crawl data, preprocessed data, tokenized data, and the baseline data sets of following news sources. 
 
 1.Adaderana
