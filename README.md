@@ -1,4 +1,4 @@
-# Tamil_News_Clusterring
+# Tamil_News_Clustering
 This have crawl data, preprocessed data, tokenized data, and the baseline data sets of following news sources. 
 
 1.Adaderana
